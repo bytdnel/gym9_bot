@@ -1,0 +1,637 @@
+[
+    {
+        "form": 5,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "В",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Г",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 6,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "В",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Г",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 7,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "В",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Г",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 8,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "В",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Г",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 9,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "В",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Г",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 10,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "form": 11,
+        "letters": [
+            {
+                "letter": "А",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            },
+            {
+                "letter": "Б",
+                "schedule": [
+                    {
+                        "day": 1,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 2,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 3,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 4,
+                        "lessons": {}
+                    },
+                    {
+                        "day": 5,
+                        "lessons": {}
+                    }
+                ]
+            }
+        ]
+    }
+]

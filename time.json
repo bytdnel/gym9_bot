@@ -1,0 +1,74 @@
+{
+    "1": {
+        "start": "8:30",
+        "stop": "9:15",
+        "start_h": 8, 
+        "start_m": 30,
+        "stop_h": 9,
+        "stop_m": 15
+    },
+    "2": {
+        "start": "9:25",
+        "stop": "10:10",
+        "start_h": 9, 
+        "start_m": 25,
+        "stop_h": 10,
+        "stop_m": 10
+    },
+    "3": {
+        "start": "10:20",
+        "stop": "11:05",
+        "start_h": 10, 
+        "start_m": 20,
+        "stop_h": 11,
+        "stop_m": 5
+    },
+    "4": {
+        "start": "11:25",
+        "stop": "12:10",
+        "start_h": 11, 
+        "start_m": 25,
+        "stop_h": 12,
+        "stop_m": 10
+    },
+    "5": {
+        "start": "12:25",
+        "stop": "13:10",
+        "start_h": 12, 
+        "start_m": 25,
+        "stop_h": 13,
+        "stop_m": 10
+    },
+    "6": {
+        "start": "13:20",
+        "stop": "14:05",
+        "start_h": 13, 
+        "start_m": 20,
+        "stop_h": 14,
+        "stop_m": 5
+    },
+    "7": {
+        "start": "14:15",
+        "stop": "15:00",
+        "start_h": 14, 
+        "start_m": 15,
+        "stop_h": 15,
+        "stop_m": 0
+    },
+    "8": {
+        "start": "15:10",
+        "stop": "15:55",
+        "start_h": 15, 
+        "start_m": 10,
+        "stop_h": 15,
+        "stop_m": 55
+    },
+    "9": {
+        "start": "16:05",
+        "stop": "16:50",
+        "start_h": 16, 
+        "start_m": 5,
+        "stop_h": 16,
+        "stop_m": 50
+    }
+}
